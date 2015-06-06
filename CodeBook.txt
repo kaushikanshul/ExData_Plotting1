@@ -1,0 +1,8 @@
+ - The folder contains 4 codes to generate the 4 plots.
+
+ - The codes assume that the data is unzipped and extracted in the same folder under the subfolder "exdata-data-household_power_consumption".
+
+ - The code has 3 methods to read the required data. The details of the methods are in comments within the code. Any one method of reading the files need to be selected.Method 2 is least flexible but is the fastest.
+
+ - the plots are generated and saved as a png file.
+
